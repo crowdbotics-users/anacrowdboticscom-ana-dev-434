@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT anacrowdboticscom_ana_dev_434.wsgi:application
